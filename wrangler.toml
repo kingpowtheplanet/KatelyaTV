@@ -29,8 +29,6 @@ HEALTH_CHECK_INTERVAL = "30"
 LOG_LEVEL = "info"
 LOG_FORMAT = "json"
 NODE_ENV = "production"
-USERNAME = "admin"
-PASSWORD = "0000"
 
 # 预览环境配置
 [env.preview]
